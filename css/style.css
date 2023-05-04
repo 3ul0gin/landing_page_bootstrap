@@ -1,0 +1,37 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.fuente-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.img-courusel {
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
+}
+
+.txt-color-especial {
+    color: #0f8d1a!important;
+}
+
+.btn-color-especial
+{
+    background-color: #0f8d1a;
+    color: white;
+}
+
+.btn-color-especial:hover {
+    background-color: #0f8d1a;
+    color: white;
+}
+
+.border-color-especial {
+    border-color: #0f8d1a;
+}
+
+.card-img-position {
+    height: 200px;
+    object-fit: cover;
+}
